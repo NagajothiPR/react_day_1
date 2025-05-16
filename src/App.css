@@ -1,0 +1,53 @@
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.project-display {
+  margin-top: 20px;
+}
+
+.styled-heading {
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bio-container {
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: skyblue;
+  border-radius: 10px;
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.counter-box {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.counter-box button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.hobby-section {
+  margin: 20px auto;
+  background-color: white;
+  width: 300px;
+  color: blue;
+}
+
+.hobby-list {
+  list-style-type: circle;
+  padding-left: 20px;
+  color: #555;
+}
